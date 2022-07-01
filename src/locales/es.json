@@ -1,0 +1,8 @@
+{
+  "dashboard": {
+    "io": "musica",
+    "description": "Encuentras las canciones más populares de tus artistas favoritos",
+    "button": "Buscar",
+    "lyrics": "explícita"
+  }
+}
